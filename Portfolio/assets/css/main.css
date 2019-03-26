@@ -3187,3 +3187,8 @@ input, select, textarea {
 			}
 
 	}
+
+.cashbutton {
+    color: black;
+    text-decoration: none;
+}
